@@ -69,7 +69,7 @@ This regression model predicts the total number of bike rentals (`cnt`) for a gi
 
 ## Authors
 
-Created by [Your Name] using Azure ML Designer.
+Created by Yohannes Setotaw using Azure ML Designer.
 
 ---
 
