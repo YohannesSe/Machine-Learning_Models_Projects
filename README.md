@@ -1,6 +1,6 @@
 # 🚗 Autonomous Driving Simulation: Steering & Acceleration Prediction
 ## 📌 Project Overview
-- **This project demonstrates a machine learning-based simulation of an autonomous vehicle that predicts steering angle and acceleration using environmental and sensor data. It utilizes regression models trained and evaluated in an Azure ML Notebook environment.
+- This project demonstrates a machine learning-based simulation of an autonomous vehicle that predicts steering angle and acceleration using environmental and sensor data. It utilizes regression models trained and evaluated in an Azure ML Notebook environment.
 ---
 ## 📊 Dataset Features
 - **vehicle_id, timestamp, speed_kmh, acceleration_mps2, steering_angle_deg, location_lat, location_lon, obstacles_detected, weather_condition, lane_position
