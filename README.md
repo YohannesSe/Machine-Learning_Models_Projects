@@ -8,7 +8,7 @@
 ## 🎯 Target Variables
 - steering_angle_deg (continuous) and acceleration_mps2 (continuous)
 ---
-##⚙️ Model Workflow
+## ⚙️ Model Workflow
 - Data Preprocessing
 - Convert timestamp to hour
 - Encode categorical features (weather_condition, lane_position)
@@ -28,12 +28,12 @@
 ---
 
 ## 📈 Model Performance
-
-- **| Metric | Value |
-- **|--------|-------|
-- **| MAE    | 0.520 |
-- **| RMSE   | 0.7851|
-- **| R²     | 0.97 |
+-
+  | Metric | Value |
+  |--------|-------|
+  | MAE    | 0.520 |
+  | RMSE   | 0.7851|
+  | R²     | 0.97 |
 ---
 ## 🧪 Inference Example
 - python
