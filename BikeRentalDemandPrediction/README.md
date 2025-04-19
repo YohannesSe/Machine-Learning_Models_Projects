@@ -21,8 +21,7 @@ Predict the total number of daily bike rentals (`cnt`) using features such as te
 
 ## 🧪 Pipeline Overview (Azure ML Designer)
 
-![Pipeline Diagram] ([pipeline-diagram.png](https://github.com/YohannesSe/Azure_ML-Model-Projects/blob/Azure_ML-Designers/pipeline_diagram.png))
-
+![Pipeline Diagram] ([pipeline-diagram.png](https://github.com/YohannesSe/Machine-Learning_Models_Projects/blob/Azure_ML-Designers/BikeRentalDemandPrediction/BikeRental_Prediction%20Model_001.png))
 
 ### Modules Used:
 - **Import Data**: Load the dataset (bike_day.csv)
